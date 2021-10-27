@@ -4,7 +4,7 @@ import GasPrice from './components/GasPrice.vue'
 
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <GasPrice msg="Gas Price" />
+  <GasPrice/>
 </template>
 
 <style>
